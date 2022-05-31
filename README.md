@@ -7,3 +7,5 @@ The Graph
 Build completed: QmTZRh2oXzaNqHjUZLcFYVmnk69tkaVhGuPme2GjZBecUo
 
 Deployed to https://thegraph.com/explorer/subgraph/nicolasmozo/the-graph
+
+Frontend deployed - https://lottery-game-chainlink-vrf.vercel.app/
